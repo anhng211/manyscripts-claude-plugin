@@ -1,0 +1,17 @@
+{
+  "name": "manyscripts",
+  "owner": {
+    "name": "ManyScripts",
+    "email": "hello@manyscripts.com"
+  },
+  "metadata": {
+    "description": "The ManyScripts plugin for Claude: public social video transcripts through the ManyScripts MCP server."
+  },
+  "plugins": [
+    {
+      "name": "manyscripts-video-transcripts",
+      "source": ".",
+      "description": "Extract complete transcripts, captions, and metadata from public YouTube, TikTok, Instagram Reel, X/Twitter, Facebook, and Xiaohongshu (beta) videos."
+    }
+  ]
+}

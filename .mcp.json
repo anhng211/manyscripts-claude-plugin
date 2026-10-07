@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "manyscripts": {
+      "type": "http",
+      "url": "https://www.manyscripts.com/api/mcp",
+      "oauth_resource": "https://www.manyscripts.com/api/mcp"
+    }
+  }
+}

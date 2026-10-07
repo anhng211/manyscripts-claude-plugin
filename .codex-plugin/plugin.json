@@ -1,0 +1,44 @@
+{
+  "name": "manyscripts-video-transcripts",
+  "version": "1.0.0",
+  "description": "Extract complete transcripts, captions, and metadata from public social videos.",
+  "author": {
+    "name": "ManyScripts",
+    "email": "hello@manyscripts.com",
+    "url": "https://www.manyscripts.com"
+  },
+  "homepage": "https://www.manyscripts.com/mcp",
+  "keywords": [
+    "transcript",
+    "youtube",
+    "tiktok",
+    "instagram",
+    "twitter",
+    "facebook",
+    "xiaohongshu",
+    "video"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "ManyScripts Video Transcripts",
+    "shortDescription": "Transcribe public videos from six platforms.",
+    "longDescription": "Get complete spoken transcripts, creator captions, and useful metadata from public YouTube, TikTok, Instagram Reel, X/Twitter, Facebook, and Xiaohongshu (beta) video links without leaving the conversation.",
+    "developerName": "ManyScripts",
+    "category": "Productivity",
+    "capabilities": [
+      "Read"
+    ],
+    "websiteURL": "https://www.manyscripts.com/mcp",
+    "privacyPolicyURL": "https://www.manyscripts.com/privacy",
+    "termsOfServiceURL": "https://www.manyscripts.com/terms",
+    "defaultPrompt": [
+      "Get the complete transcript from this public video URL.",
+      "Extract the transcript and creator caption from this video.",
+      "Transcribe this video, then summarize its main points."
+    ],
+    "brandColor": "#111111",
+    "composerIcon": "./assets/icon.png",
+    "logo": "./assets/logo.png"
+  },
+  "mcpServers": "./.mcp.json"
+}

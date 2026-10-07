@@ -1,0 +1,21 @@
+{
+  "name": "manyscripts-video-transcripts",
+  "version": "1.0.0",
+  "description": "Extract complete transcripts, captions, and metadata from public YouTube, TikTok, Instagram Reel, X/Twitter, Facebook, and Xiaohongshu (beta) videos.",
+  "author": {
+    "name": "ManyScripts",
+    "email": "hello@manyscripts.com",
+    "url": "https://www.manyscripts.com"
+  },
+  "homepage": "https://www.manyscripts.com/mcp",
+  "license": "Proprietary",
+  "keywords": [
+    "transcript",
+    "youtube",
+    "tiktok",
+    "instagram",
+    "twitter",
+    "facebook",
+    "video"
+  ]
+}
